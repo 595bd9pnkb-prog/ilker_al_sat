@@ -1,0 +1,3 @@
+pandas
+tradingview_ta
+python-telegram-bot
